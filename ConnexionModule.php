@@ -3,7 +3,9 @@
 
 namespace Connexion;
 
-use Kaminos\Module\KaminosModule;
+
+
+use KaminosUtils\Module\KaminosModule;
 
 class ConnexionModule extends KaminosModule
 {
