@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Connexion;
+namespace Module\Connexion;
 
 
 
