@@ -5,9 +5,9 @@ namespace Module\Connexion;
 
 
 
-use KaminosUtils\Module\KaminosModule;
+use Kamille\Module\KamilleModule;
 
-class ConnexionModule extends KaminosModule
+class ConnexionModule extends KamilleModule
 {
 
 }
